@@ -1,0 +1,25 @@
+{
+  "name": "rtneto",
+  "version": "1.0.0",
+  "description": "rtneto.com.br website",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtneto/rtneto.git"
+  },
+  "author": "rtneto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtneto/rtneto/issues"
+  },
+  "homepage": "https://github.com/rtneto/rtneto#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "html-express-js": "^1.1.1"
+  }
+}
